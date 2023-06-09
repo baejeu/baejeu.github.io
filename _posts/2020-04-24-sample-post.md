@@ -1,8 +1,8 @@
 ---
-title: 배제우 POST
+title: BAEJEU FIRST POST
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: 안녕하세요 
+description: HI
 - sample
 - post
 - test

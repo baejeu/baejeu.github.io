@@ -7,9 +7,9 @@ url: https://baejeu.github.io/
 baseurl: ""
 
 # Title of the Site
-title: What A Theme
+title: 배제우 깃 블로그 입니다.
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: 멋쟁이 사자 5기 훈련생
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -45,7 +45,7 @@ author-name: TheDevsLot
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: 저는 옴팡이 이모티콘 닮았어요!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 

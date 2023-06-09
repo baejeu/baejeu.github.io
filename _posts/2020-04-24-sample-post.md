@@ -1,10 +1,8 @@
 ---
-title: Sample Post
+title: 배제우 POST
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
-tags:
+description: 안녕하세요 
 - sample
 - post
 - test
@@ -18,12 +16,12 @@ For more information about writing markdown you can checkout the following markd
 
 ---
 
-# This is the h1 text
-## This is the h2 text
-### This is the h3 text
-#### This is the h4 text
-##### This is the h5 text
-###### This is the h6 text
+# 나이: 26
+# 생년생일: 1998년 12월 12일 
+# MBTI: ESFJ 
+# 취미: 등산
+# 목표하는 직업: 백앤드 개발자 
+
 
 **Bold Text in the post will look like:**<br>
 **This text is Bold**
